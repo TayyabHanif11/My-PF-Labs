@@ -1,1 +1,1 @@
-
+The source codes are included in the 1st Semester Course of Programming Fundamentals. From basics to moderate level learnings so far, we understood basic Cpp concepts to understanding loops, functions, arrays, pointers and structures.
